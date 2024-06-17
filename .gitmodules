@@ -1,0 +1,3 @@
+[submodule "app/services/client_database"]
+	path = app/services/client_database
+	url = https://github.com/Klimatika-in-da-Dubai/client_database

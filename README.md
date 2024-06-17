@@ -1,0 +1,1 @@
+# moyrobot-camera-bot

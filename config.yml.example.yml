@@ -1,0 +1,48 @@
+bot:
+  token: 
+  parse_mode: 
+  analytics: 
+
+database:
+  host: 
+  name: 
+  user: 
+  password: 
+
+redis:
+  host: 
+  port:
+  db: 
+  user: 
+  password: 
+
+terminals:
+  - terminal:
+      id: 
+      url: 
+      login: 
+      password: 
+
+
+constants:
+  photo_update_delay:   
+  users_use_command_delay: 
+  operator_camera_block_start_time: 
+  operator_camera_block_end_time: 
+
+cameras:
+  - camera:
+      name: 
+      description: 
+      tags: []
+      host: 
+      login: 
+      password: 
+      protocol: 
+      port: 
+      path: 
+
+ga4:
+  measurement_id: 
+  api_secret: 
+
